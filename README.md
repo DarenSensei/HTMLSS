@@ -1,2 +1,0 @@
-# HTMLSS
-Personals
